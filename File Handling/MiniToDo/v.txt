@@ -1,0 +1,34 @@
+1.) Linux is the Future
+
+2.) Linux is Adaptable.
+
+3.) Linux has a strong Community and ecosystem.
+
+4.) Linux is Fun.
+
+5.) Linux is open Source
+
+what is os ?
+
+ans) The operating system is a software on your hardware to make it "do things" without operating system most hardware is useless
+
+
+what is kernal?
+ans) the kernal is the special piece of the operating system that controls the cpu hardware, allocates memory, Accesses Data, Schedules Processes runs the application and protects them from each other .
+
+what is linux daemon?
+
+it is a basically softwares running in the back ground
+
+sshd - secure shell daemon (it will authnticate the user to login the linux)
+
+benefits of using Linux?
+
+ans)Consistent Operating model : no matter what version or distribution of linux you use, whether your on a super computer or a tiny embedded device , the general operation / Usage of linux is same no matter where you go 
+
+scalability : Linux is able to run pn everything from wristwatches to super computers to globally distributed computing
+
+open source and community optimized : all the future enhancements and bug fixes are done by more than 5000 individual developers till now more than 13500 developers from more than 1300 companies have contributed to the development and improvement of linux
+
+full function networking and package Management : linux has built in strong support for networking allows you to install new software and packages with few simple commands 
+
